@@ -27,5 +27,5 @@ A Spring Boot backend application for managing a gaming club, including **member
 
 ---
 
-## Project Structure
+
 
